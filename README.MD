@@ -46,6 +46,13 @@ Can you beat the model?
 
 ---
 
+## Credits
+
+- [@CalvinChristofan](https://github.com/CalvinChristofan)
+- [@FilbertNg](https://github.com/FilbertNg)
+
+--- 
+
 ## 📚 Acknowledgements  
 - Kaggle House Prices Dataset:  
   [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
